@@ -28,7 +28,7 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => 'localhost',
         'username'     => 'root',
-        'password'     => '',
+        'password'     => '13122002',
         'database'     => 'emsol',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
@@ -41,7 +41,7 @@ class Database extends Config
         'compress'     => false,
         'strictOn'     => false,
         'failover'     => [],
-        'port'         => 3307,
+        'port'         => 3306,
         'numberNative' => false,
     ];
 
